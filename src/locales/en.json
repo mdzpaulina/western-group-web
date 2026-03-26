@@ -1,0 +1,87 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "units": "Units",
+    "coverage": "Coverage",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tagline": "Favorable winds",
+    "tagline_sub": "from the west",
+    "description": "We are a group of companies specialized in port operations and integrated logistics with presence in Manzanillo and Ensenada.",
+    "cta_units": "Our units",
+    "cta_contact": "Contact us"
+  },
+  "about": {
+    "label": "About us",
+    "title": "The logistics group of the Mexican Pacific",
+    "body": "Western Group is a holding company with over 20 years of experience in logistics and port operations. We integrate specialized services under one identity: reliable, agile, and committed to safety and the environment.",
+    "stat1_num": "+20",
+    "stat1_lbl": "Years of experience",
+    "stat2_num": "2",
+    "stat2_lbl": "Major ports",
+    "stat3_num": "4",
+    "stat3_lbl": "Business units"
+  },
+  "units": {
+    "label": "Our units",
+    "title": "Integrated services for the logistics chain",
+    "container": {
+      "name": "Container Services",
+      "tagline": "Container yards",
+      "desc": "Storage, handling and specialized services for maritime cargo containers in Manzanillo and Ensenada.",
+      "ports": "Manzanillo · Ensenada"
+    },
+    "stevedoring": {
+      "name": "Stevedoring",
+      "tagline": "Port operations",
+      "desc": "Loading and unloading services with high-tonnage equipment and certified personnel at the main Pacific ports.",
+      "ports": "Manzanillo · Ensenada"
+    },
+    "logistics": {
+      "name": "Logistics Services",
+      "tagline": "Forwarding & transport",
+      "desc": "Comprehensive cargo management, customs agency, land transport and tailored solutions for importers and exporters.",
+      "ports": "Manzanillo · Ensenada"
+    },
+    "tankcare": {
+      "name": "Tank Care",
+      "tagline": "Isotank services",
+      "desc": "Specialized technical cleaning, maintenance and repair of ISO tanks (FG & Chemicals) in Manzanillo, 5.5 km from the port.",
+      "ports": "Manzanillo"
+    }
+  },
+  "coverage": {
+    "label": "Coverage",
+    "title": "Presence across the Mexican Pacific",
+    "desc": "We operate from the two most important ports on the Pacific, with immediate connectivity to terminals, yards and land routes.",
+    "manzanillo": {
+      "title": "Manzanillo, Colima",
+      "desc": "Mexico's most active Pacific port. Home to Tank Care, Container Services and Stevedoring. 5.5 km from the inland port terminal.",
+      "units": "Container Services · Stevedoring · Tank Care"
+    },
+    "ensenada": {
+      "title": "Ensenada, Baja California",
+      "desc": "Strategic port on the northwest border. Home to Container Services, Stevedoring and Logistics with direct access to U.S. trade corridors.",
+      "units": "Container Services · Stevedoring · Logistics"
+    }
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Let's talk",
+    "desc": "We are ready to be your strategic partner in Manzanillo and Ensenada. Write or call us through your preferred channel.",
+    "whatsapp": "WhatsApp",
+    "phone": "Call",
+    "email": "Email",
+    "placeholder_wa": "+52 XXX XXX XXXX",
+    "placeholder_tel": "+52 XXX XXX XXXX",
+    "placeholder_email": "contacto@westerngroup.mx"
+  },
+  "footer": {
+    "tagline": "We are the wind in your favor.",
+    "rights": "© 2025 Western Group. All rights reserved.",
+    "address_mzn": "Carretera Manzanillo-Minatitlán km 5.5, Ejido Jalipa, CP 28870, Manzanillo, Colima.",
+    "address_ens": "Ensenada, Baja California, México."
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "units": "Unidades",
+    "coverage": "Cobertura",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "tagline": "Viento favorable",
+    "tagline_sub": "desde el oeste",
+    "description": "Somos un grupo de empresas especializadas en operaciones portuarias y logística integral con presencia en Manzanillo y Ensenada.",
+    "cta_units": "Nuestras unidades",
+    "cta_contact": "Contáctanos"
+  },
+  "about": {
+    "label": "Quiénes somos",
+    "title": "El grupo logístico del Pacífico mexicano",
+    "body": "Western Group es una holding con más de 20 años de experiencia en el sector logístico y portuario. Integramos servicios especializados bajo una sola identidad: confiables, ágiles y comprometidos con la seguridad y el medio ambiente.",
+    "stat1_num": "+20",
+    "stat1_lbl": "Años de experiencia",
+    "stat2_num": "2",
+    "stat2_lbl": "Puertos principales",
+    "stat3_num": "4",
+    "stat3_lbl": "Unidades de negocio"
+  },
+  "units": {
+    "label": "Nuestras unidades",
+    "title": "Servicios integrales para la cadena logística",
+    "container": {
+      "name": "Container Services",
+      "tagline": "Patios de contenedores",
+      "desc": "Almacenamiento, manejo y servicios especializados para contenedores de carga marítima en Manzanillo y Ensenada.",
+      "ports": "Manzanillo · Ensenada"
+    },
+    "stevedoring": {
+      "name": "Stevedoring",
+      "tagline": "Maniobras portuarias",
+      "desc": "Servicios de estiba y desestiba con equipos de alto tonelaje y personal certificado en los principales puertos del Pacífico.",
+      "ports": "Manzanillo · Ensenada"
+    },
+    "logistics": {
+      "name": "Logistics Services",
+      "tagline": "Forwarding y transporte",
+      "desc": "Gestión integral de carga, agencia aduanal, transporte terrestre y soluciones a la medida para importadores y exportadores.",
+      "ports": "Manzanillo · Ensenada"
+    },
+    "tankcare": {
+      "name": "Tank Care",
+      "tagline": "Servicios a isotanques",
+      "desc": "Limpieza técnica especializada, mantenimiento y reparación de isotanques (FG y Químicos) en Manzanillo, a 5.5 km del puerto.",
+      "ports": "Manzanillo"
+    }
+  },
+  "coverage": {
+    "label": "Cobertura",
+    "title": "Presencia en el Pacífico mexicano",
+    "desc": "Operamos desde los dos puertos más importantes del Pacífico, con conectividad inmediata a terminales, patios y vías terrestres.",
+    "manzanillo": {
+      "title": "Manzanillo, Colima",
+      "desc": "Puerto más activo del Pacífico mexicano. Sede de Tank Care, Container Services y Stevedoring. A 5.5 km de la terminal portuaria interior.",
+      "units": "Container Services · Stevedoring · Tank Care"
+    },
+    "ensenada": {
+      "title": "Ensenada, Baja California",
+      "desc": "Puerto estratégico en la frontera noroeste. Sede de Container Services, Stevedoring y Logistics con acceso directo a corredores de comercio con EE.UU.",
+      "units": "Container Services · Stevedoring · Logistics"
+    }
+  },
+  "contact": {
+    "label": "Contacto",
+    "title": "Hablemos",
+    "desc": "Estamos listos para ser tu socio estratégico en Manzanillo y Ensenada. Escríbenos o llámanos por la vía que prefieras.",
+    "whatsapp": "WhatsApp",
+    "phone": "Llamar",
+    "email": "Correo",
+    "placeholder_wa": "+52 XXX XXX XXXX",
+    "placeholder_tel": "+52 XXX XXX XXXX",
+    "placeholder_email": "contacto@westerngroup.mx"
+  },
+  "footer": {
+    "tagline": "Somos el viento a favor.",
+    "rights": "© 2025 Western Group. Todos los derechos reservados.",
+    "address_mzn": "Carretera Manzanillo-Minatitlán km 5.5, Ejido Jalipa, CP 28870, Manzanillo, Colima.",
+    "address_ens": "Ensenada, Baja California, México."
+  }
+}
